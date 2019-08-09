@@ -4,8 +4,8 @@ http://blog.whysdomain.com/blog/255/
 
 
 Nginx入门：  
-https://zhuanlan.zhihu.com/p/34943332
-Nginx详解：  
+https://zhuanlan.zhihu.com/p/34943332  
+Nginx详解：      
 http://tengine.taobao.org/book/chapter_02.html
 
 
