@@ -63,4 +63,7 @@ https://zhuanlan.zhihu.com/p/34985026
 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 
 数据库表设计第一、二、三范式：  
-https://www.zhihu.com/question/24696366  
+https://www.zhihu.com/question/24696366    
+
+四种常见的鉴权方式：  
+https://blog.csdn.net/wang839305939/article/details/78713124
