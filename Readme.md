@@ -62,3 +62,5 @@ https://zhuanlan.zhihu.com/p/34985026
 数据库索引：  
 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 
+数据库表设计第一、二、三范式：  
+https://www.zhihu.com/question/24696366  
