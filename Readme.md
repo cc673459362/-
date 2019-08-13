@@ -66,4 +66,12 @@ http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 https://www.zhihu.com/question/24696366    
 
 四种常见的鉴权方式：  
-https://blog.csdn.net/wang839305939/article/details/78713124
+https://blog.csdn.net/wang839305939/article/details/78713124  
+
+pprof示例：  
+https://blog.golang.org/profiling-go-programs  
+
+ngxin限流算法：  
+https://segmentfault.com/a/1190000016509710  
+
+
