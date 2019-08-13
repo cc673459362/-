@@ -72,6 +72,11 @@ pprof示例：
 https://blog.golang.org/profiling-go-programs  
 
 ngxin限流算法：  
-https://segmentfault.com/a/1190000016509710  
+https://segmentfault.com/a/1190000016509710    
 
 
+数据库学习：  
+http://www.zsythink.net/archives/1233  
+
+golang逃逸分析：  
+https://gocn.vip/article/355
