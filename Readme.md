@@ -79,4 +79,18 @@ https://segmentfault.com/a/1190000016509710
 http://www.zsythink.net/archives/1233  
 
 golang逃逸分析：  
-https://gocn.vip/article/355
+https://gocn.vip/article/355  
+
+golang排序写法：
+https://itimetraveler.github.io/2016/09/07/%E3%80%90Go%E8%AF%AD%E8%A8%80%E3%80%91%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E6%8E%92%E5%BA%8F%E5%92%8C%20slice%20%E6%8E%92%E5%BA%8F/    
+
+golang接口interface深入理解：
+https://juejin.im/post/5a6873fd518825734501b3c5  
+
+golang goroutine和channel：  
+https://juejin.im/post/5b2c49185188257494642464  
+
+原子操作是如何实现的：  
+https://zhuanlan.zhihu.com/p/33445834  
+
+
