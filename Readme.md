@@ -106,4 +106,7 @@ http://huaxiaozhuan.com/
 Git Tutorial：  
 https://git-scm.com/book/zh/v2
 
+数据中台概念：
+https://cloud.tencent.com/developer/article/1472561
+
 cjfsb
