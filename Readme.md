@@ -109,4 +109,7 @@ https://git-scm.com/book/zh/v2
 数据中台概念：
 https://cloud.tencent.com/developer/article/1472561
 
+中台整体概念：  
+https://blog.csdn.net/loongggdroid/article/details/98128567
+
 cjfsb
