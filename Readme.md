@@ -110,6 +110,13 @@ https://git-scm.com/book/zh/v2
 https://cloud.tencent.com/developer/article/1472561
 
 中台整体概念：  
-https://blog.csdn.net/loongggdroid/article/details/98128567
+https://blog.csdn.net/loongggdroid/article/details/98128567  
+
+session和cookie鉴权中的安全问题：  
+
+XSS攻击：  
+https://www.cnblogs.com/mao2080/p/9460397.html  
+CSRF攻击：  
+https://baike.baidu.com/item/CSRF/2735433?fr=aladdin
 
 cjfsb
