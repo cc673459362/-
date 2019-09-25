@@ -124,7 +124,9 @@ https://blog.csdn.net/u014209205/article/details/81218656
 
 进程调度的一些算法：  
 https://www.jianshu.com/p/4952bc7b6180 
-
+  
+负载均衡架构介绍：  
+https://blog.csdn.net/qinglianchen0851/article/details/84306448
 
 
 cjfsb
