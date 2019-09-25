@@ -123,7 +123,7 @@ TCP的Keepalive和HTTP的keep-alive：
 https://blog.csdn.net/u014209205/article/details/81218656  
 
 进程调度的一些算法：  
-https://blog.csdn.net/qq_36136497/article/details/82697401  
+https://www.jianshu.com/p/4952bc7b6180 
 
 
 
