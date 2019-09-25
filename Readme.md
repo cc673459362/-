@@ -117,6 +117,14 @@ session和cookie鉴权中的安全问题：
 XSS攻击：  
 https://www.cnblogs.com/mao2080/p/9460397.html  
 CSRF攻击：  
-https://baike.baidu.com/item/CSRF/2735433?fr=aladdin
+https://baike.baidu.com/item/CSRF/2735433?fr=aladdin  
+  
+TCP的Keepalive和HTTP的keep-alive：
+https://blog.csdn.net/u014209205/article/details/81218656  
+
+进程调度的一些算法：  
+https://blog.csdn.net/qq_36136497/article/details/82697401  
+
+
 
 cjfsb
